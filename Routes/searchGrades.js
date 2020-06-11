@@ -84,7 +84,7 @@ const getGrades = async () => {
             .filter(grade => grade.subject === subject)
             .filter(grade => grade.type === type)
             .sort((a, b) => b.value - a.value)
-            .filter((_,index) => index < 3);
+            // .filter((_,index) => index < 3);
             res.json(rank);
             logger.info( `melhores: ${JSON.stringify(rank)}` );
         } catch (error) {

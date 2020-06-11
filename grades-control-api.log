@@ -311,3 +311,23 @@ undefined
 2020-06-11T21:56:44.359Z [grades-control-api] info: API rodando na porta 3333
 2020-06-11T21:56:44.744Z [grades-control-api] info: A soma das grades é: [object Object],[object Object],[object Object],[object Object]
 2020-06-11T21:57:27.993Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T22:05:44.016Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T22:05:58.047Z [grades-control-api] info: A soma das grades é: 43
+2020-06-11T22:06:29.903Z [grades-control-api] info: melhores: [{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}]
+2020-06-11T22:07:06.810Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T22:07:08.658Z [grades-control-api] info: melhores: [{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"},{"id":7,"student":"Loiane Groner","subject":"03 - React","type":"Trabalho Prático","value":2,"timestamp":"2020-05-19T18:21:24.993Z"}]
+2020-06-11T22:08:55.293Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T22:09:11.909Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T22:09:14.522Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T22:09:16.705Z [grades-control-api] info: melhores: [{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"},{"id":7,"student":"Loiane Groner","subject":"03 - React","type":"Trabalho Prático","value":2,"timestamp":"2020-05-19T18:21:24.993Z"}]
+2020-06-11T22:10:40.894Z [grades-control-api] info: A soma das grades é: 47
+2020-06-11T22:12:01.014Z [grades-control-api] info: Grade criada com sucesso: {"id":49,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10}
+2020-06-11T22:12:02.269Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T22:12:36.208Z [grades-control-api] info: A soma das grades é: 70
+2020-06-11T22:15:00.065Z [grades-control-api] info: Grade alterada com sucesso: {"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":15,"timestamp":"2020-05-19T18:21:25.184Z"}
+2020-06-11T22:15:01.280Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T22:15:48.264Z [grades-control-api] info: A soma das grades é: 52
+2020-06-11T22:16:22.190Z [grades-control-api] info: Grade 32 excluída com sucesso
+2020-06-11T22:16:23.402Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T22:16:43.490Z [grades-control-api] info: A soma das grades é: 78
+2020-06-11T22:17:08.068Z [grades-control-api] info: id - 43: [{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}]
