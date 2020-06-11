@@ -1,0 +1,6 @@
+( ) Implementação de logs para o teste do desafio.
+    ( ) getGrades - logs para o método get que retorna todos as grades do api.
+    ( ) getGrades - logs para o método put que altera uma grade específica da api.
+    ( ) getGrades - logs para o método delete que deleta uma grade específica da api.
+    ( ) searchGrades - logs para o método delete que deleta uma grade específica da api.
+    
