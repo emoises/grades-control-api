@@ -1,26 +1,32 @@
 const express = require('express');
 const router = express.Router();
-const fs =require('fs');
+const fs =require('fs').promises;
 const winston = require('winston')
 
 
-function getGrades() {
-    const dataGrades = fs.existsSync(global.grades)
-        ? fs.readFileSync(global.grades)
-        : []
+const saveStudents = async (student) =>
+    await fs.writeFile(global.grades, JSON.stringify(student)).catch((error) => {
+        console.log(error)
+    });
+const getGrades = async () => {
     try {
+        const dataGrades = await fs.readFile(global.grades, 'utf8')
         return dataGrades
     } catch (error) {
-        console.log(error)
+        let blankGrade = {
+            nextId: 1,
+            grades: []
+        }
+        saveStudents(blankGrade)
+        logger.info('Sua grade está vazia')
     }
 }
-const saveStudents = (student) =>
-    fs.writeFileSync(global.grades, JSON.stringify(student, null, '\t'));
 
-router.post('/', (req,res)=> {
+router.post('/', async (req,res)=> {
     try {
         let body = req.body
-        const students = JSON.parse(getGrades());
+        const data = await getGrades()
+        const students = JSON.parse(data)
         body = { id: students.nextId, ...body};
         students.grades.push(body);
         students.nextId++
@@ -32,13 +38,14 @@ router.post('/', (req,res)=> {
         logger.error(error);
     }
 })
-router.get('/',(_,res) => {
+router.get('/', async (_,res) => {
     try {
-        const students = JSON.parse(getGrades());
+        const data = await getGrades();
+        const students = JSON.parse(data);
         nextId = students.nextId;
         delete students.nextId;
         res.json(students);
-        logger.info(`grades: ${students}`)
+        logger.info(`grades: ${JSON.stringify(students)}`);
         students.nextId = nextId;
     } catch (error) {
         res.status(400).json(error)
@@ -46,13 +53,14 @@ router.get('/',(_,res) => {
     }
 
 })
-
-router.put('/', (req, res) => {
+''
+router.put('/', async (req, res) => {
     try {
-          const body = req.body;
-          const students = JSON.parse(getGrades());
-          const index = students.grades.findIndex(
-            (student) => body.id === student.id
+        const body = req.body;
+        const data = await getGrades();
+        const students = JSON.parse(data);
+        const index = students.grades.findIndex(
+            (grade) => body.id === grade.id
           );
           if (!index) {
             throw err;
@@ -73,8 +81,9 @@ router.put('/', (req, res) => {
 
 })
 
-router.delete('/:id', (req,res) => {
-    const students = JSON.parse(getGrades());
+router.delete('/:id',async  (req,res) => {
+    const data = await getGrades();
+    const students = JSON.parse(data);
     const id = Number(req.params.id)
     nextId = students.nextId;
     const idExist = students.grades.findIndex( student => student.id === id )
@@ -83,7 +92,6 @@ router.delete('/:id', (req,res) => {
         const deletedStudents = students.grades.filter(student => student.id !== id)
         students. grades= deletedStudents   
         saveStudents(students)
-        // res.json(students)
         res.json(`Grade ${id} excluída com sucesso`)
         logger.info(`Grade ${id} excluída com sucesso`);
         

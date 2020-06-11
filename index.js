@@ -5,14 +5,15 @@ const winston = require('winston');
 const port = 3333;
 const grades = require('./Routes/getGrades');
 const search = require('./Routes/searchGrades');
-// const average = require('./Routes/averageGrades')
-// const parmsGrades = require('./Routes/paramsGrades')
+
 
 const { combine, timestamp, label, printf } = winston.format
 global.grades = join(__dirname,'grades.json')
+
 const myFormat = printf(({level, message, label, timestamp})=> {
     return `${timestamp} [${label}] ${level}: ${message}`
 })
+
 global.logger = winston.createLogger({
   level: 'silly',
   transports: [
@@ -32,8 +33,6 @@ app.use(express.json());
 
 app.use('/grades', grades)
 app.use('/search', search)
-// app.use('/media', average)
-// app.use('/parmsGrades', parmsGrades)
 
 app.listen( port, () => {
     

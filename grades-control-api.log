@@ -77,3 +77,237 @@ undefined
 2020-06-11T12:09:02.192Z [grades-control-api] info: API rodando na porta 3333
 2020-06-11T12:10:03.695Z [grades-control-api] info: API rodando na porta 3333
 2020-06-11T12:10:18.082Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:24:52.761Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:29:32.521Z [grades-control-api] info: grades: [object Object]
+2020-06-11T19:32:24.009Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:33:39.016Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:34:28.947Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:34:48.303Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:35:49.605Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:36:05.216Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:36:24.239Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:36:26.675Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:37:25.035Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:37:27.268Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:38:54.817Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:39:18.414Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:39:22.041Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:39:42.332Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:39:46.238Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:41:48.016Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:41:48.115Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:43:08.214Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:43:30.334Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:43:52.831Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:44:52.092Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:44:56.318Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:45:17.524Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:45:22.405Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:45:25.901Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:45:47.788Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:45:52.704Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:46:16.987Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:46:17.188Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:46:36.072Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:46:38.924Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:46:57.885Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:47:00.697Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:47:54.972Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:47:57.319Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:48:36.414Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:49:25.949Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:49:36.407Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:49:36.603Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:50:10.028Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:50:12.094Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:55:40.559Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:55:43.189Z [grades-control-api] info: o soma da é: 
+2020-06-11T19:57:11.950Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:57:15.750Z [grades-control-api] info: o soma da é: 41
+2020-06-11T19:58:24.574Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:58:47.401Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T19:59:00.761Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:00:33.566Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:04:58.512Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:06:15.676Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:06:51.171Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:06:59.677Z [grades-control-api] info: Não foi possível completar sua solicitação. Por favor verifique os dados.
+2020-06-11T20:07:05.696Z [grades-control-api] info: melhores: [{"id":46,"student":"Rodrigo Branas","subject":"02 - Node","type":"Desafio","value":44,"timestamp":"2020-05-19T18:21:25.272Z"},{"id":34,"student":"Roberto Achar","subject":"02 - Node","type":"Desafio","value":37,"timestamp":"2020-05-19T18:21:25.191Z"},{"id":10,"student":"Loiane Groner","subject":"02 - Node","type":"Desafio","value":18,"timestamp":"2020-05-19T18:21:25.012Z"}]
+2020-06-11T20:07:12.541Z [grades-control-api] info: melhores: [{"id":26,"student":"Roberto Achar","subject":"02 - Node","type":"Fórum","value":17,"timestamp":"2020-05-19T18:21:25.128Z"},{"id":14,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.039Z"},{"id":38,"student":"Rodrigo Branas","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.217Z"}]
+2020-06-11T20:08:31.742Z [grades-control-api] info: grades: [object Object]
+2020-06-11T20:08:39.926Z [grades-control-api] info: A soma das grades é: 41
+2020-06-11T20:09:36.038Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:09:49.923Z [grades-control-api] info: Não foi possível completar sua solicitação. Por favor verifique os dados.
+2020-06-11T20:12:25.672Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:15:14.738Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:16:17.741Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:16:44.255Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:17:10.708Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:18:05.123Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:18:37.653Z [grades-control-api] error: Unexpected token o in JSON at position 1
+2020-06-11T20:23:24.234Z [grades-control-api] error: Unexpected token o in JSON at position 1
+2020-06-11T20:25:05.583Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:25:08.798Z [grades-control-api] error: Unexpected token o in JSON at position 1
+2020-06-11T20:25:28.843Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:25:29.406Z [grades-control-api] error: Unexpected token o in JSON at position 1
+2020-06-11T20:26:18.645Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:26:22.549Z [grades-control-api] error: Unexpected token o in JSON at position 1
+2020-06-11T20:27:52.249Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:27:57.200Z [grades-control-api] info: grades: [object Object]
+2020-06-11T20:28:08.990Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:29:00.967Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:30:21.216Z [grades-control-api] error: fs.existsSync is not a function
+2020-06-11T20:30:47.605Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:30:51.639Z [grades-control-api] error: fs.existsSync is not a function
+2020-06-11T20:30:54.868Z [grades-control-api] error: fs.existsSync is not a function
+2020-06-11T20:32:04.070Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:32:51.238Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:32:54.437Z [grades-control-api] error: fs.existsSync is not a function
+2020-06-11T20:34:50.196Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:34:50.664Z [grades-control-api] error: fs.existsSync is not a function
+2020-06-11T20:34:58.637Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:35:41.080Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:35:45.486Z [grades-control-api] error: Unexpected token o in JSON at position 1
+2020-06-11T20:36:44.511Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:36:53.975Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:36:56.902Z [grades-control-api] error: Unexpected token o in JSON at position 1
+2020-06-11T20:37:19.610Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:37:19.806Z [grades-control-api] error: Unexpected token o in JSON at position 1
+2020-06-11T20:43:05.915Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:43:06.153Z [grades-control-api] error: fs.existsSync is not a function
+2020-06-11T20:43:39.752Z [grades-control-api] info: A soma das grades é: 41
+2020-06-11T20:43:41.779Z [grades-control-api] info: A soma das grades é: 41
+2020-06-11T20:43:45.323Z [grades-control-api] info: id - 40: [{"id":40,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Fórum","value":2,"timestamp":"2020-05-19T18:21:25.232Z"}]
+2020-06-11T20:43:47.920Z [grades-control-api] error: fs.existsSync is not a function
+2020-06-11T20:43:52.317Z [grades-control-api] info: melhores: [{"id":26,"student":"Roberto Achar","subject":"02 - Node","type":"Fórum","value":17,"timestamp":"2020-05-19T18:21:25.128Z"},{"id":14,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.039Z"},{"id":38,"student":"Rodrigo Branas","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.217Z"}]
+2020-06-11T20:44:55.359Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:45:11.563Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:49:03.839Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:49:13.645Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:49:30.466Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:51:59.563Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:52:18.398Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:52:23.937Z [grades-control-api] info: melhores: [{"id":26,"student":"Roberto Achar","subject":"02 - Node","type":"Fórum","value":17,"timestamp":"2020-05-19T18:21:25.128Z"},{"id":14,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.039Z"},{"id":38,"student":"Rodrigo Branas","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.217Z"}]
+2020-06-11T20:52:27.548Z [grades-control-api] error: fs.existsSync is not a function
+2020-06-11T20:52:32.418Z [grades-control-api] info: A soma das grades é: 41
+2020-06-11T20:52:35.362Z [grades-control-api] info: id - 40: [{"id":40,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Fórum","value":2,"timestamp":"2020-05-19T18:21:25.232Z"}]
+2020-06-11T20:52:39.308Z [grades-control-api] info: id - 35: [{"id":35,"student":"Roberto Achar","subject":"03 - React","type":"Desafio","value":23,"timestamp":"2020-05-19T18:21:25.198Z"}]
+2020-06-11T20:53:48.731Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:54:46.328Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:54:50.527Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:54:55.397Z [grades-control-api] error: error is not defined
+2020-06-11T20:55:16.874Z [grades-control-api] error: fs.existsSync is not a function
+2020-06-11T20:56:21.811Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:56:41.522Z [grades-control-api] info: Sua grade está vazia
+2020-06-11T20:56:42.686Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:58:48.450Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:59:08.789Z [grades-control-api] info: Sua grade está vazia
+2020-06-11T20:59:09.767Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T20:59:17.005Z [grades-control-api] info: Sua grade está vazia
+2020-06-11T20:59:18.002Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:00:23.564Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:00:23.780Z [grades-control-api] error: error is not defined
+2020-06-11T21:00:41.698Z [grades-control-api] info: Sua grade está vazia
+2020-06-11T21:00:43.798Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:01:38.833Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:02:03.255Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:03:17.899Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:03:37.484Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:03:40.934Z [grades-control-api] error: error is not defined
+2020-06-11T21:03:52.958Z [grades-control-api] info: Sua grade está vazia
+2020-06-11T21:03:52.960Z [grades-control-api] error: Unexpected token u in JSON at position 0
+2020-06-11T21:03:53.841Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:04:37.714Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:04:52.224Z [grades-control-api] error: error is not defined
+2020-06-11T21:04:54.641Z [grades-control-api] error: error is not defined
+2020-06-11T21:05:08.272Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:06:09.554Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:06:15.788Z [grades-control-api] error: Unexpected token o in JSON at position 1
+2020-06-11T21:08:42.226Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:08:43.297Z [grades-control-api] error: Unexpected token o in JSON at position 1
+2020-06-11T21:09:31.948Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:09:34.170Z [grades-control-api] error: Unexpected token o in JSON at position 1
+2020-06-11T21:10:20.829Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:10:46.385Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:10:48.202Z [grades-control-api] error: students is not defined
+2020-06-11T21:11:00.579Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:11:01.319Z [grades-control-api] error: students is not defined
+2020-06-11T21:11:34.054Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:12:16.455Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:12:17.667Z [grades-control-api] error: students is not defined
+2020-06-11T21:13:04.157Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:13:06.405Z [grades-control-api] error: students is not defined
+2020-06-11T21:13:15.675Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:13:16.323Z [grades-control-api] error: students is not defined
+2020-06-11T21:15:59.276Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:15:59.423Z [grades-control-api] info: Grade criada com sucesso: {"id":1,"student":"Eduardo Moisés da Silva","subject":"01 - JavaScript","type":"Fórum","value":40}
+2020-06-11T21:16:32.683Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:16:34.230Z [grades-control-api] info: Grade criada com sucesso: {"id":1,"student":"Eduardo Moisés da Silva","subject":"01 - JavaScript","type":"Fórum","value":40}
+2020-06-11T21:16:44.981Z [grades-control-api] info: Grade criada com sucesso: {"id":1,"student":"Eduardo Moisés da Silva","subject":"01 - JavaScript","type":"Desafio","value":40}
+2020-06-11T21:17:01.763Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:17:01.971Z [grades-control-api] info: Grade criada com sucesso: {"id":1,"student":"Eduardo Moisés da Silva","subject":"01 - JavaScript","type":"Fórum","value":40}
+2020-06-11T21:17:02.800Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:17:14.474Z [grades-control-api] info: Grade criada com sucesso: {"id":2,"student":"Eduardo Moisés da Silva","subject":"01 - JavaScript","type":"Desafio","value":40}
+2020-06-11T21:17:15.293Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:18:19.168Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:18:40.551Z [grades-control-api] info: Não foi possível completar sua solicitação. Por favor verifique os dados.
+2020-06-11T21:18:45.258Z [grades-control-api] info: grades: [object Object]
+2020-06-11T21:19:30.696Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:20:20.401Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:22:24.484Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:22:40.104Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:22:49.848Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:28:37.617Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:29:44.456Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:30:11.301Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:30:52.851Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:31:16.221Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:31:39.233Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:31:53.999Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:32:23.869Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:32:27.868Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:32:31.721Z [grades-control-api] info: grades: [object Object]
+2020-06-11T21:32:54.647Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:33:08.705Z [grades-control-api] info: Sua grade está vazia
+2020-06-11T21:33:08.715Z [grades-control-api] error: Unexpected token u in JSON at position 0
+2020-06-11T21:33:09.843Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:33:37.338Z [grades-control-api] info: Grade criada com sucesso: {"id":1,"student":"Eduardo Moisés da Silva","subject":"01 - JavaScript","type":"Desafio","value":40}
+2020-06-11T21:33:39.530Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:33:43.914Z [grades-control-api] info: Grade criada com sucesso: {"id":2,"student":"Eduardo Moisés da Silva","subject":"01 - JavaScript","type":"Fórum","value":40}
+2020-06-11T21:33:44.794Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:33:57.612Z [grades-control-api] info: Grade criada com sucesso: {"id":3,"student":"Marina Moisés da Silva","subject":"01 - JavaScript","type":"Fórum","value":40}
+2020-06-11T21:33:58.824Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:34:03.956Z [grades-control-api] info: Grade criada com sucesso: {"id":4,"student":"Marina Moisés da Silva","subject":"01 - JavaScript","type":"Desafio","value":40}
+2020-06-11T21:34:04.889Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:34:56.085Z [grades-control-api] info: grades: [object Object]
+2020-06-11T21:44:29.155Z [grades-control-api] info: grades: [object Object]
+2020-06-11T21:45:03.373Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:45:03.580Z [grades-control-api] info: grades: {"grades":[{"id":1,"student":"Eduardo Moisés da Silva","subject":"01 - JavaScript","type":"Desafio","value":40},{"id":2,"student":"Eduardo Moisés da Silva","subject":"01 - JavaScript","type":"Fórum","value":40},{"id":3,"student":"Marina Moisés da Silva","subject":"01 - JavaScript","type":"Fórum","value":40},{"id":4,"student":"Marina Moisés da Silva","subject":"01 - JavaScript","type":"Desafio","value":40}]}
+2020-06-11T21:45:47.202Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:45:52.584Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:46:12.708Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:46:12.864Z [grades-control-api] info: Grade alterada com sucesso: {"id":2,"student":"Fátima","subject":"02 - Node","type":"Fórum","value":10}
+2020-06-11T21:46:16.708Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:46:18.692Z [grades-control-api] info: Grade alterada com sucesso: {"id":2,"student":"Fátima","subject":"02 - Node","type":"Fórum","value":5}
+2020-06-11T21:46:19.467Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:47:22.488Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:47:53.841Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:48:35.792Z [grades-control-api] info: grades: {"grades":[{"id":1,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"},{"id":2,"student":"Loiane Groner","subject":"02 - Node","type":"Fórum","value":5,"timestamp":"2020-05-19T18:21:24.964Z"},{"id":3,"student":"Loiane Groner","subject":"03 - React","type":"Fórum","value":14,"timestamp":"2020-05-19T18:21:24.970Z"},{"id":4,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Fórum","value":2,"timestamp":"2020-05-19T18:21:24.975Z"},{"id":5,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Trabalho Prático","value":21,"timestamp":"2020-05-19T18:21:24.981Z"},{"id":6,"student":"Loiane Groner","subject":"02 - Node","type":"Trabalho Prático","value":24,"timestamp":"2020-05-19T18:21:24.987Z"},{"id":7,"student":"Loiane Groner","subject":"03 - React","type":"Trabalho Prático","value":2,"timestamp":"2020-05-19T18:21:24.993Z"},{"id":8,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Trabalho Prático","value":30,"timestamp":"2020-05-19T18:21:24.999Z"},{"id":9,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Desafio","value":5,"timestamp":"2020-05-19T18:21:25.004Z"},{"id":10,"student":"Loiane Groner","subject":"02 - Node","type":"Desafio","value":18,"timestamp":"2020-05-19T18:21:25.012Z"},{"id":11,"student":"Loiane Groner","subject":"03 - React","type":"Desafio","value":40,"timestamp":"2020-05-19T18:21:25.019Z"},{"id":12,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Desafio","value":44,"timestamp":"2020-05-19T18:21:25.025Z"},{"id":13,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Fórum","value":13,"timestamp":"2020-05-19T18:21:25.032Z"},{"id":14,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.039Z"},{"id":15,"student":"Roberta Arcoverde","subject":"03 - React","type":"Fórum","value":1,"timestamp":"2020-05-19T18:21:25.047Z"},{"id":16,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Fórum","value":7,"timestamp":"2020-05-19T18:21:25.053Z"},{"id":17,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Trabalho Prático","value":12,"timestamp":"2020-05-19T18:21:25.059Z"},{"id":18,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Trabalho Prático","value":21,"timestamp":"2020-05-19T18:21:25.066Z"},{"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":20,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Trabalho Prático","value":20,"timestamp":"2020-05-19T18:21:25.077Z"},{"id":21,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.084Z"},{"id":22,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Desafio","value":9,"timestamp":"2020-05-19T18:21:25.090Z"},{"id":23,"student":"Roberta Arcoverde","subject":"03 - React","type":"Desafio","value":15,"timestamp":"2020-05-19T18:21:25.098Z"},{"id":24,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Desafio","value":14,"timestamp":"2020-05-19T18:21:25.106Z"},{"id":25,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Fórum","value":9,"timestamp":"2020-05-19T18:21:25.113Z"},{"id":26,"student":"Roberto Achar","subject":"02 - Node","type":"Fórum","value":17,"timestamp":"2020-05-19T18:21:25.128Z"},{"id":27,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-05-19T18:21:25.140Z"},{"id":28,"student":"Roberto Achar","subject":"04 - MongoDB","type":"Fórum","value":7,"timestamp":"2020-05-19T18:21:25.150Z"},{"id":29,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Trabalho Prático","value":2,"timestamp":"2020-05-19T18:21:25.157Z"},{"id":30,"student":"Roberto Achar","subject":"02 - Node","type":"Trabalho Prático","value":30,"timestamp":"2020-05-19T18:21:25.165Z"},{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":32,"student":"Roberto Achar","subject":"04 - MongoDB","type":"Trabalho Prático","value":16,"timestamp":"2020-05-19T18:21:25.178Z"},{"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":25,"timestamp":"2020-05-19T18:21:25.184Z"},{"id":34,"student":"Roberto Achar","subject":"02 - Node","type":"Desafio","value":37,"timestamp":"2020-05-19T18:21:25.191Z"},{"id":35,"student":"Roberto Achar","subject":"03 - React","type":"Desafio","value":23,"timestamp":"2020-05-19T18:21:25.198Z"},{"id":36,"student":"Roberto Achar","subject":"04 - MongoDB","type":"Desafio","value":43,"timestamp":"2020-05-19T18:21:25.204Z"},{"id":37,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Fórum","value":6,"timestamp":"2020-05-19T18:21:25.211Z"},{"id":38,"student":"Rodrigo Branas","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.217Z"},{"id":39,"student":"Rodrigo Branas","subject":"03 - React","type":"Fórum","value":3,"timestamp":"2020-05-19T18:21:25.225Z"},{"id":40,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Fórum","value":2,"timestamp":"2020-05-19T18:21:25.232Z"},{"id":41,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Trabalho Prático","value":13,"timestamp":"2020-05-19T18:21:25.240Z"},{"id":42,"student":"Rodrigo Branas","subject":"02 - Node","type":"Trabalho Prático","value":18,"timestamp":"2020-05-19T18:21:25.247Z"},{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"},{"id":44,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Trabalho Prático","value":28,"timestamp":"2020-05-19T18:21:25.260Z"},{"id":45,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.266Z"},{"id":46,"student":"Rodrigo Branas","subject":"02 - Node","type":"Desafio","value":44,"timestamp":"2020-05-19T18:21:25.272Z"},{"id":47,"student":"Rodrigo Branas","subject":"03 - React","type":"Desafio","value":36,"timestamp":"2020-05-19T18:21:25.278Z"},{"id":48,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Desafio","value":45,"timestamp":"2020-05-19T18:21:25.284Z"}]}
+2020-06-11T21:50:31.398Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:50:36.656Z [grades-control-api] info: grades: {"grades":[{"id":1,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"},{"id":2,"student":"Loiane Groner","subject":"02 - Node","type":"Fórum","value":5,"timestamp":"2020-05-19T18:21:24.964Z"},{"id":3,"student":"Loiane Groner","subject":"03 - React","type":"Fórum","value":14,"timestamp":"2020-05-19T18:21:24.970Z"},{"id":4,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Fórum","value":2,"timestamp":"2020-05-19T18:21:24.975Z"},{"id":5,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Trabalho Prático","value":21,"timestamp":"2020-05-19T18:21:24.981Z"},{"id":6,"student":"Loiane Groner","subject":"02 - Node","type":"Trabalho Prático","value":24,"timestamp":"2020-05-19T18:21:24.987Z"},{"id":7,"student":"Loiane Groner","subject":"03 - React","type":"Trabalho Prático","value":2,"timestamp":"2020-05-19T18:21:24.993Z"},{"id":8,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Trabalho Prático","value":30,"timestamp":"2020-05-19T18:21:24.999Z"},{"id":9,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Desafio","value":5,"timestamp":"2020-05-19T18:21:25.004Z"},{"id":10,"student":"Loiane Groner","subject":"02 - Node","type":"Desafio","value":18,"timestamp":"2020-05-19T18:21:25.012Z"},{"id":11,"student":"Loiane Groner","subject":"03 - React","type":"Desafio","value":40,"timestamp":"2020-05-19T18:21:25.019Z"},{"id":12,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Desafio","value":44,"timestamp":"2020-05-19T18:21:25.025Z"},{"id":13,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Fórum","value":13,"timestamp":"2020-05-19T18:21:25.032Z"},{"id":14,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.039Z"},{"id":15,"student":"Roberta Arcoverde","subject":"03 - React","type":"Fórum","value":1,"timestamp":"2020-05-19T18:21:25.047Z"},{"id":16,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Fórum","value":7,"timestamp":"2020-05-19T18:21:25.053Z"},{"id":17,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Trabalho Prático","value":12,"timestamp":"2020-05-19T18:21:25.059Z"},{"id":18,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Trabalho Prático","value":21,"timestamp":"2020-05-19T18:21:25.066Z"},{"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":20,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Trabalho Prático","value":20,"timestamp":"2020-05-19T18:21:25.077Z"},{"id":21,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.084Z"},{"id":22,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Desafio","value":9,"timestamp":"2020-05-19T18:21:25.090Z"},{"id":23,"student":"Roberta Arcoverde","subject":"03 - React","type":"Desafio","value":15,"timestamp":"2020-05-19T18:21:25.098Z"},{"id":24,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Desafio","value":14,"timestamp":"2020-05-19T18:21:25.106Z"},{"id":25,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Fórum","value":9,"timestamp":"2020-05-19T18:21:25.113Z"},{"id":26,"student":"Roberto Achar","subject":"02 - Node","type":"Fórum","value":17,"timestamp":"2020-05-19T18:21:25.128Z"},{"id":27,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-05-19T18:21:25.140Z"},{"id":28,"student":"Roberto Achar","subject":"04 - MongoDB","type":"Fórum","value":7,"timestamp":"2020-05-19T18:21:25.150Z"},{"id":29,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Trabalho Prático","value":2,"timestamp":"2020-05-19T18:21:25.157Z"},{"id":30,"student":"Roberto Achar","subject":"02 - Node","type":"Trabalho Prático","value":30,"timestamp":"2020-05-19T18:21:25.165Z"},{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":32,"student":"Roberto Achar","subject":"04 - MongoDB","type":"Trabalho Prático","value":16,"timestamp":"2020-05-19T18:21:25.178Z"},{"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":25,"timestamp":"2020-05-19T18:21:25.184Z"},{"id":34,"student":"Roberto Achar","subject":"02 - Node","type":"Desafio","value":37,"timestamp":"2020-05-19T18:21:25.191Z"},{"id":35,"student":"Roberto Achar","subject":"03 - React","type":"Desafio","value":23,"timestamp":"2020-05-19T18:21:25.198Z"},{"id":36,"student":"Roberto Achar","subject":"04 - MongoDB","type":"Desafio","value":43,"timestamp":"2020-05-19T18:21:25.204Z"},{"id":37,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Fórum","value":6,"timestamp":"2020-05-19T18:21:25.211Z"},{"id":38,"student":"Rodrigo Branas","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.217Z"},{"id":39,"student":"Rodrigo Branas","subject":"03 - React","type":"Fórum","value":3,"timestamp":"2020-05-19T18:21:25.225Z"},{"id":40,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Fórum","value":2,"timestamp":"2020-05-19T18:21:25.232Z"},{"id":41,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Trabalho Prático","value":13,"timestamp":"2020-05-19T18:21:25.240Z"},{"id":42,"student":"Rodrigo Branas","subject":"02 - Node","type":"Trabalho Prático","value":18,"timestamp":"2020-05-19T18:21:25.247Z"},{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"},{"id":44,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Trabalho Prático","value":28,"timestamp":"2020-05-19T18:21:25.260Z"},{"id":45,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.266Z"},{"id":46,"student":"Rodrigo Branas","subject":"02 - Node","type":"Desafio","value":44,"timestamp":"2020-05-19T18:21:25.272Z"},{"id":47,"student":"Rodrigo Branas","subject":"03 - React","type":"Desafio","value":36,"timestamp":"2020-05-19T18:21:25.278Z"},{"id":48,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Desafio","value":45,"timestamp":"2020-05-19T18:21:25.284Z"}]}
+2020-06-11T21:50:45.535Z [grades-control-api] info: melhores: [{"id":26,"student":"Roberto Achar","subject":"02 - Node","type":"Fórum","value":17,"timestamp":"2020-05-19T18:21:25.128Z"},{"id":14,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.039Z"},{"id":38,"student":"Rodrigo Branas","subject":"02 - Node","type":"Fórum","value":16,"timestamp":"2020-05-19T18:21:25.217Z"}]
+2020-06-11T21:50:51.148Z [grades-control-api] info: id - 35: [{"id":35,"student":"Roberto Achar","subject":"03 - React","type":"Desafio","value":23,"timestamp":"2020-05-19T18:21:25.198Z"}]
+2020-06-11T21:50:55.331Z [grades-control-api] info: A soma das grades é: 41
+2020-06-11T21:51:00.931Z [grades-control-api] info: Não foi possível completar sua solicitação. Por favor verifique os dados.
+2020-06-11T21:51:02.826Z [grades-control-api] info: Não foi possível completar sua solicitação. Por favor verifique os dados.
+2020-06-11T21:52:18.550Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:53:22.093Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:53:31.852Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:54:50.380Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:55:15.266Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:55:16.504Z [grades-control-api] info: A soma das grades é: 54
+2020-06-11T21:55:29.024Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:55:29.515Z [grades-control-api] info: A soma das grades é: 54
+2020-06-11T21:56:44.359Z [grades-control-api] info: API rodando na porta 3333
+2020-06-11T21:56:44.744Z [grades-control-api] info: A soma das grades é: [object Object],[object Object],[object Object],[object Object]
+2020-06-11T21:57:27.993Z [grades-control-api] info: API rodando na porta 3333
